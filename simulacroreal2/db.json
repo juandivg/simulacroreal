@@ -1,0 +1,53 @@
+{
+  "Rutas": [
+    {
+      "id": 2,
+      "NomRuta": "Del armario"
+    },
+    {
+      "id": 3,
+      "NomRuta": "pollito7"
+    },
+    {
+      "id": 8,
+      "NomRuta": "kakita"
+    }
+  ],
+  "Puntos": [
+    {
+      "id": 3,
+      "NomPuntos": "Cucuta",
+      "RutaId": "2"
+    },
+    {
+      "id": 4,
+      "NomPuntos": "Bucaramanga",
+      "RutaId": "2"
+    },
+    {
+      "id": 5,
+      "NomPuntos": "lkanfs",
+      "RutaId": 3
+    },
+    {
+      "id": 6,
+      "NomPuntos": "ñkafn",
+      "RutaId": 3
+    },
+    {
+      "id": 11,
+      "NomPuntos": "pato",
+      "RutaId": 8
+    },
+    {
+      "id": 10,
+      "NomPuntos": "puta",
+      "RutaId": 8
+    },
+    {
+      "id": 16,
+      "NomPuntos": "lola",
+      "RutaId": "2"
+    }
+  ]
+}
